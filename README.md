@@ -6,3 +6,4 @@
 > #### Part 1 : Creating a repository on github and adding various files with multiple commits
 > #### Part 2 : Here, we have to add content in Readme file and create content of website
 > #### Part 3 : We have to write blog posts
+> ***
